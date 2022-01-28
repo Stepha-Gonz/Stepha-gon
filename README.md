@@ -1,3 +1,2 @@
-
-
-                                    ![nombre](https://user-images.githubusercontent.com/79724950/151635554-264af1d1-3a7f-4d6e-9bb3-ad9a6d87eb16.jpg)
+<h1 align="center">Hola a todos, mi nombre es Stephanie y bienvenidos a mi perfil </h1>
+<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px">
