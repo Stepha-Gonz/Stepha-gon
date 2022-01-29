@@ -11,9 +11,9 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stepha-gon&&show_icons=true&theme_height=27&v=5" width="500px">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=stepha-gon&&show_icons=true&theme_height=27&v=5" width="300px">
 
-<img align="center" src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2016/12/pacman.gif" width="1000px" height="400px" />
+<img align="center" src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2016/12/pacman.gif" width="1000px" height="500px" />
 
 # Contáctame:speech_balloon:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/stepha-gon)
