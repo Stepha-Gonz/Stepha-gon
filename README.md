@@ -2,7 +2,7 @@
 <h1 align="center">Mi nombre es Stephanie</h1>
 <img align="right" src="https://assets.website-files.com/60dc8648f349eb6762db8d52/60e4600d6b787b48d07168eb_process-2.gif" width="300px" height="300px" />
 <img align="left" src="https://www.academiavirtual.ang.edu.ec/pluginfile.php/607664/course/overviewfiles/quimica.gif" width="300px" height="300px" />
-<h5 align="center"> Bienvenidos a mi perfil. Mi nombre es Stephanie Gonzalez soy estudiante de Ingeniería Química y estudiante de ingeniería de sistemas en la Universidad EAN de Colombia.</h5>
+<h5 align="center"> Bienvenidos a mi perfil. Mi nombre es Stephanie Gonzalez soy Ingeniera Química y estudiante de ingeniería de sistemas en la Universidad EAN de Colombia.</h5>
 🌱 Me gusta:<br>
 - Industria 4.0<br>
 - Ciberseguridad <br>
