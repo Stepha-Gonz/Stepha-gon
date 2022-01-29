@@ -7,8 +7,10 @@
 - Industria 4.0<br>
 - Ciberseguridad <br>
 
-💕Lenguajes de programación
+💕Lenguajes de programación usados <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+
 
 
 
