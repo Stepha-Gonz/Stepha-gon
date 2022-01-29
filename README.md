@@ -12,7 +12,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
-<img align="center" src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2016/12/pacman.gif" width="1000px" height="500px" />
+<h1><img align="center" src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2016/12/pacman.gif" width="1000px" height="500px" /></h1>
 
 ####Contáctame:speech_balloon:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/stepha-gon)
