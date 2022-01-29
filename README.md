@@ -8,7 +8,7 @@
 - Ciberseguridad 
 
 💕Lenguajes de programación
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stepha-gon=radical&hide=glsl,python" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepha-gon=radical&hide=glsl,python" />
 
 
 
