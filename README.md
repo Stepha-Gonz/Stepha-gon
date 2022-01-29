@@ -7,7 +7,8 @@
 - Industria 4.0<br>
 - Ciberseguridad <br>
 
-💕Lenguajes de programación <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepha-gon&theme=radical&hide=glsl,python" />
+💕Lenguajes de programación
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 
 
