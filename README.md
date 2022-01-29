@@ -11,7 +11,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<img src="https://github-readme-stats.vercel.app/api?username=stepha-gon&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats"
+<img src="https://github-readme-stats.vercel.app/api?username=stepha-gon&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats">
 
 <img align="center" src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2016/12/pacman.gif" width="1000px" height="500px" />
 
