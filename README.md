@@ -7,7 +7,7 @@
 - Industria 4.0<br>
 - Ciberseguridad <br>
 
-💕Lenguajes de programación <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
+💕Lenguajes de programación <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepha-gon&theme=radical&hide=glsl,python" />
 
 
 
