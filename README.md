@@ -14,8 +14,9 @@
 
 <img align="center" src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2016/12/pacman.gif" width="1000px" height="500px" />
 
-Contáctame :speech_balloon:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/stepha-gon)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephaniegonzaleziqyi/)
+<h2 align="center">Contáctame :speech_balloon</h2>
+
+<h2 align="center">[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/stepha-gon)</h2><
+<h2 align="center">[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephaniegonzaleziqyi/)</h2>
 
 
