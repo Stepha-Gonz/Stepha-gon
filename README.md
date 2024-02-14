@@ -1,8 +1,8 @@
 <h1 align="center">👋Hi Everyone <img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40" height="40" ></h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&color=6F24F7&background=D6B4FF00&multiline=true&random=false&width=435&lines=I'm+a+Systems+Engineer+with+a+passion+for+coding+and+creative+problem+solving." alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&color=6F24F7&background=D6B4FF00&multiline=true&random=false&width=435&lines=I'm+Stephanie!+;a+Systems+Engineer+with+a+passion+for+coding+;and+creative+problem+solving." alt="Typing SVG" /></a>
+<br> 
+<img align="center" src="https://assets.website-files.com/60dc8648f349eb6762db8d52/60e4600d6b787b48d07168eb_process-2.gif" width="300px" height="300px" />
 
-<img align="right" src="https://assets.website-files.com/60dc8648f349eb6762db8d52/60e4600d6b787b48d07168eb_process-2.gif" width="300px" height="300px" />
-<img align="left" src="https://www.academiavirtual.ang.edu.ec/pluginfile.php/607664/course/overviewfiles/quimica.gif" width="300px" height="300px" />
 <h5 align="center"> Welcome to my profile. My name is Stephanie Gonzalez, I am a systems engineer and chemical engineer graduated from the EAN University of Colombia..</h5>
 🌱 Me gusta:<br>
 - Industria 4.0<br>
