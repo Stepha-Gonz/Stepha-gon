@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi Everyone! <img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40" height="40" ></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&duration=3000&pause=200&color=F7F7F7&background=D6B4FF00&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=I'm+Stephanie!+a+Systems+Engineer+;with+a+passion+for+coding+;and+creative+problem+solving." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=50&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=I'm+Stephanie!+a+Systems+Engineer;with+a+passion+for+coding;and+creative+problem+solving." alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img align="center" src="https://assets.website-files.com/60dc8648f349eb6762db8d52/60e4600d6b787b48d07168eb_process-2.gif" width="400" heigth="400"/>
