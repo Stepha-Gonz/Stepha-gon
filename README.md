@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi Everyone! <img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40" height="40" ></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&duration=3000&pause=200&color=D744F7&background=D6B4FF00&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=I'm+Stephanie!+a+Systems+Engineer+;with+a+passion+for+coding+;and+creative+problem+solving." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&duration=3000&pause=200&color=F7F7F7&background=D6B4FF00&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=I'm+Stephanie!+a+Systems+Engineer+;with+a+passion+for+coding+;and+creative+problem+solving." alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img align="center" src="https://assets.website-files.com/60dc8648f349eb6762db8d52/60e4600d6b787b48d07168eb_process-2.gif" width="400" heigth="400"/>
@@ -25,15 +25,24 @@
 
 <div align="center">
 
-![Stepha-gon's Stats](https://github-readme-stats.vercel.app/api?username=Stepha-gon&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
-![Stepha-gon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stepha-gon&theme=nightowl&hide_border=false)
-![Stepha-gon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepha-gon&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+![Stepha-gon's Stats](https://github-readme-stats.vercel.app/api?username=Stepha-gon&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+
+</div>
+<div align="center">
+  
+![Stepha-gon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stepha-gon&theme=solarized-light&hide_border=true)
+
+</div>
+<div align="center">
+  
+![Stepha-gon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepha-gon&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
-
-# Contact Me:
+<h2 align="center"> CONTACT</h2>
+<div align="center"> 
+  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/stepha-gon)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephaniegonzalez-qe-se/)
 
-
+</div>
