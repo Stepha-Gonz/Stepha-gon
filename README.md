@@ -12,7 +12,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-[Stepha-gon's Stats](https://github-readme-stats.vercel.app/api?username=Stepha-gon&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![Stepha-gon's Stats](https://github-readme-stats.vercel.app/api?username=Stepha-gon&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![Stepha-gon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stepha-gon&theme=nightowl&hide_border=false)
 
 <img align="center" src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2016/12/pacman.gif" width="1000px" height="500px" />
 
