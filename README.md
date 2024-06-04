@@ -25,24 +25,24 @@
 
 <div align="center">
 
-![Stepha-gon's Stats](https://github-readme-stats.vercel.app/api?username=Stepha-gon&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+![Stepha-Gonz's Stats](https://github-readme-stats.vercel.app/api?username=Stepha-Gonz&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 <div align="center">
   
-![Stepha-gon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stepha-gon&theme=solarized-light&hide_border=true)
+![Stepha-Gonz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stepha-Gonz&theme=solarized-light&hide_border=true)
 
 </div>
 <div align="center">
   
-![Stepha-gon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepha-gon&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
+![Stepha-Gonz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepha-Gonz&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
 <h2 align="center"> CONTACT</h2>
 <div align="center"> 
   
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/stepha-gon)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephaniegonzalez-qe-se/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Stepha-Gonz)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-gonzalez-m/)
 
 </div>
